@@ -9,3 +9,6 @@ If you already have vagrant set up all the way to vagrant up, run this command:
 
 
 for windows users:
+with your cmd, run this:
+<code>vagrant init hashicorp/precise64</code>
+<code>vagrant up</code>
